@@ -69,6 +69,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
 
 
     gitbook.events.bind('start', function(e, config) {
+    return;
         var opts = config.sharing;
 
         // Create dropdown menu
