@@ -37,7 +37,7 @@ You can introduce this jekyll theme into your own site by either
   site itself),
 
 ```yaml
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: KrisjanisP/jekyll-gitbook
 ```
 
 ### Deploy Locally with Jekyll Serve
