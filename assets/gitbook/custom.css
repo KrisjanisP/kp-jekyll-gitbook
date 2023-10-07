@@ -1,5 +1,11 @@
 ---
 ---
+.code pre {
+	background-color: white;
+	border: 1px solid black;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: 600;
+}
 
 .book-body {
     overflow-y: scroll;
